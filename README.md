@@ -2,7 +2,7 @@
 
 Description: An end-to-end regression solution implemented using a modular programming approach. The model (with an accuracy of 84%) predicts students' exam performance based on several highly correlated features like parental background, course completion, scores in other sections and more. Deployed on AWS Elastic Beanstalk using CI code pipeline
 
-UPDATE: AWS CI-CD Production Grade Deployment using Dockers
+UPDATE: AWS CI-CD Production Grade Deployment using ECR, EC2 and Dockers.
 
 ![image](https://github.com/ferozk0333/MLProject/assets/48884151/d1987c13-bbde-46e8-b54e-90672b7464a3)
 ![image](https://github.com/ferozk0333/MLProject/assets/48884151/9a279039-6a3c-4bd7-a3a9-c46485ad3839)
