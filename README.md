@@ -30,6 +30,14 @@ sudo usermod -aG docker ubuntu
 newgrp docker
 
 ## Configure EC2 as self-hosted runner:
+
+GitHub -> Settings -> Actions -> Runners -> New -> Linux -> Execute the commands in EC2 instance -> Press Enter to skip
+NOTE:   Enter the name of runner: [press Enter for IP...] :self-hosted
+Skip rest by pressing Enter
+(Runner - Whenever code commit - acts as a trigger - CI CD deploy)
+
+./run.sh  ---> Listening for Jobs ==> Any push that happens in repository
+
 ## Setup github secrets:
 AWS_ACCESS_KEY_ID=
 
