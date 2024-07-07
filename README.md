@@ -13,7 +13,7 @@ UPDATE: AWS CI-CD Production Grade Deployment using ECR, EC2 and Dockers.
 https://github.com/ferozk0333/MathMentor-Machine_Learning_based_Test_Score_Predictor/assets/48884151/d5b1190d-caf7-403a-8dfc-97c715407505
 
 ## Docker Setup In EC2 commands to be Executed
-#optinal
+#optional
 
 sudo apt-get update -y
 
